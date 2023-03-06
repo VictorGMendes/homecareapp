@@ -48,7 +48,6 @@ API para gestão de auxiliares de enfermagem para home care
 ```
 {
   "nome": "Brenda Mariana Fogaça",
-  "cpf": "23455450890",
   "cep": "05570160",
   "numero": 518,
   "complemento": "",
