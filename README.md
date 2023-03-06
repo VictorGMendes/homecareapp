@@ -16,7 +16,6 @@ API para gestão de auxiliares de enfermagem para home care
 | campo | tipo | obrigatório | descrição |
 | - | - | - | - |
 | nome | texto | sim | nome do paciente |
-| cpf | texto | sim | cpf do paciente |
 | cep | texto | sim | cep do endereço do paciente |
 | número | inteiro |  sim | número do imóvel |
 | complemento | texto | não | complemento do imóvel |
@@ -27,7 +26,6 @@ API para gestão de auxiliares de enfermagem para home care
 ```
 {
   "nome": "Brenda Mariana Fogaça",
-  "cpf": "23455450890",
   "cep": "05570160",
   "numero": 518,
   "complemento": "",
